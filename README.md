@@ -1,7 +1,7 @@
 ClickWrap: The ClickUp API Wrapper You've Been Looking For
 ==========================================================
 
-Hey there, welcome to ClickWrap! This ain't just another API wrapper; it's a top-notch tool for ClickUp. While we're currently dialed in on a few specific endpoints, we're doing it big and doing it right. Over here in the Big Apple, we mean business. ClickWrap is built tough for those high-demand production environments, and you bet we're always on top of keeping things running smoothly.
+Hey there, welcome to ClickWrap! This ain't just another API wrapper; it's a top-notch tool for ClickUp. While we're currently dialed in on a few specific endpoints, we're doing it big and doing it right. ClickWrap is built tough for those high-demand production environments, and you bet we're always on top of keeping things running smoothly.
 
 Features:
 ---------
@@ -49,7 +49,7 @@ For the nitty-gritty on endpoints and what you can expect back, check out the [o
 Why You Gotta Have ClickWrap:
 -----------------------------
 
-Over here, we're not just talking the talk; we're walking the walk. We trust ClickWrap with our own high-stakes systems, which means this library's been through the wringer and come out on top. With ClickWrap, you're not just getting some code; you're getting reliability, top performance, and a piece of the city's hustle.
+Over here, we're not just talking the talk; we're walking the walk. We trust ClickWrap with our own high-stakes systems, which means this library's been through the wringer and come out on top. With ClickWrap, you're not just getting some code; you're getting reliability, top performance, and a piece of the hustle.
 
 Lend a Hand:
 ------------
