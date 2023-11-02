@@ -23,9 +23,9 @@ Want in on ClickWrap? Here's how to get rolling:
 
 bashCopy code
 
-'''git clone https://github.com/TonyGlezx/ClickWrap.git
+```git clone https://github.com/TonyGlezx/ClickWrap.git
 cd ClickWrap
-pip install -e .'''
+pip install -e .```
 
 This sets you up right from the source. And because it's in "editable" mode, any tweaks you make to the source get updated live.
 
@@ -36,14 +36,17 @@ Getting started is a breeze:
 
 pythonCopy code
 
-`from clickwrap import ClickUpAPI
+```from clickwrap import ClickUpAPI
+```
 
 # Get the ball rolling with the API
+```
 api = ClickUpAPI(token="YOUR_CLICKUP_TOKEN")
-
+```
 # Whip up a new folder
+```
 response = api.create_folder(space_id="YOUR_SPACE_ID", folder_name="Brand New Folder")`
-
+```
 For the nitty-gritty on endpoints and what you can expect back, check out the [official ClickWrap API docs]().
 
 Why You Gotta Have ClickWrap:
