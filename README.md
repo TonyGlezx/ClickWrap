@@ -20,11 +20,11 @@ Get Set Up:
 -----------
 
 Want in on ClickWrap? Here's how to get rolling:
-
-```git clone https://github.com/TonyGlezx/ClickWrap.git
+```
+git clone https://github.com/TonyGlezx/ClickWrap.git
 cd ClickWrap
-pip install -e .```
-
+pip install -e .
+```
 This sets you up right from the source. And because it's in "editable" mode, any tweaks you make to the source get updated live.
 
 Using ClickWrap:
