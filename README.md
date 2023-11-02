@@ -32,9 +32,8 @@ Using ClickWrap:
 
 Getting started is a breeze:
 
-pythonCopy code
-
-```from clickwrap import ClickUpAPI
+```
+from clickwrap import ClickUpAPI
 ```
 
 # Get the ball rolling with the API
