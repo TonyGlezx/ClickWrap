@@ -21,8 +21,6 @@ Get Set Up:
 
 Want in on ClickWrap? Here's how to get rolling:
 
-bashCopy code
-
 ```git clone https://github.com/TonyGlezx/ClickWrap.git
 cd ClickWrap
 pip install -e .```
