@@ -44,7 +44,7 @@ api = ClickUpAPI(token="YOUR_CLICKUP_TOKEN")
 # Whip up a new folder
 response = api.create_folder(space_id="YOUR_SPACE_ID", folder_name="Brand New Folder")`
 
-For the nitty-gritty on endpoints and what you can expect back, check out the [official ClickUp API docs]().
+For the nitty-gritty on endpoints and what you can expect back, check out the [official ClickWrap API docs]().
 
 Why You Gotta Have ClickWrap:
 -----------------------------
